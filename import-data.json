@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Toccata and Fugue in D minor",
+    "artist": "J.S. Bach",
+    "genre": "classical",
+    "language": "en",
+    "duration_seconds": 540,
+    "file_url": "https://cdn.jsdelivr.net/gh/EsmeraldoInciso/kantahanay-songs/songs/b/bach-toccata-fugue.mid",
+    "file_type": "mid",
+    "file_size_kb": 38,
+    "has_lyrics": false,
+    "tags": ["classical", "organ", "baroque"],
+    "play_count": 0
+  },
+  {
+    "title": "Nocturne Op.9 No.2",
+    "artist": "Frédéric Chopin",
+    "genre": "classical",
+    "language": "en",
+    "duration_seconds": 270,
+    "file_url": "https://cdn.jsdelivr.net/gh/EsmeraldoInciso/kantahanay-songs/songs/c/chopin-nocturne-op9-no2.mid",
+    "file_type": "mid",
+    "file_size_kb": 56,
+    "has_lyrics": false,
+    "tags": ["classical", "piano", "romantic"],
+    "play_count": 0
+  },
+  {
+    "title": "Eine Kleine Nachtmusik",
+    "artist": "W.A. Mozart",
+    "genre": "classical",
+    "language": "en",
+    "duration_seconds": 330,
+    "file_url": "https://cdn.jsdelivr.net/gh/EsmeraldoInciso/kantahanay-songs/songs/m/mozart-eine-kleine.mid",
+    "file_type": "mid",
+    "file_size_kb": 11,
+    "has_lyrics": false,
+    "tags": ["classical", "serenade", "strings"],
+    "play_count": 0
+  },
+  {
+    "title": "Spring (The Four Seasons)",
+    "artist": "Antonio Vivaldi",
+    "genre": "classical",
+    "language": "en",
+    "duration_seconds": 200,
+    "file_url": "https://cdn.jsdelivr.net/gh/EsmeraldoInciso/kantahanay-songs/songs/v/vivaldi-spring.mid",
+    "file_type": "mid",
+    "file_size_kb": 11,
+    "has_lyrics": false,
+    "tags": ["classical", "violin", "baroque"],
+    "play_count": 0
+  }
+]

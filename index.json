@@ -1,0 +1,56 @@
+{
+  "songs": [
+    {
+      "title": "Toccata fugue",
+      "artist": "Bach",
+      "genre": "",
+      "language": "en",
+      "duration_seconds": 0,
+      "file_url": "https://cdn.jsdelivr.net/gh/EsmeraldoInciso/kantahanay-songs/songs/b/bach-toccata-fugue.mid",
+      "file_type": "mid",
+      "file_size_kb": 38,
+      "has_lyrics": false,
+      "tags": [],
+      "play_count": 0
+    },
+    {
+      "title": "Nocturne op9 no2",
+      "artist": "Chopin",
+      "genre": "",
+      "language": "en",
+      "duration_seconds": 0,
+      "file_url": "https://cdn.jsdelivr.net/gh/EsmeraldoInciso/kantahanay-songs/songs/c/chopin-nocturne-op9-no2.mid",
+      "file_type": "mid",
+      "file_size_kb": 56,
+      "has_lyrics": false,
+      "tags": [],
+      "play_count": 0
+    },
+    {
+      "title": "Eine kleine",
+      "artist": "Mozart",
+      "genre": "",
+      "language": "en",
+      "duration_seconds": 0,
+      "file_url": "https://cdn.jsdelivr.net/gh/EsmeraldoInciso/kantahanay-songs/songs/m/mozart-eine-kleine.mid",
+      "file_type": "mid",
+      "file_size_kb": 11,
+      "has_lyrics": false,
+      "tags": [],
+      "play_count": 0
+    },
+    {
+      "title": "Spring",
+      "artist": "Vivaldi",
+      "genre": "",
+      "language": "en",
+      "duration_seconds": 0,
+      "file_url": "https://cdn.jsdelivr.net/gh/EsmeraldoInciso/kantahanay-songs/songs/v/vivaldi-spring.mid",
+      "file_type": "mid",
+      "file_size_kb": 11,
+      "has_lyrics": false,
+      "tags": [],
+      "play_count": 0
+    }
+  ]
+}
